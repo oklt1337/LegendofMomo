@@ -1,0 +1,1946 @@
+fileFormatVersion: 2
+guid: 24f5b997926c5054eaa576919f8a2fbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1867462775054993111
+    second: character_rot_braun_0
+  - first:
+      213: 6679636572969279139
+    second: character_rot_braun_1
+  - first:
+      213: 8309857002992493321
+    second: character_rot_braun_2
+  - first:
+      213: 8887504397343830322
+    second: character_rot_braun_3
+  - first:
+      213: 232980709303165597
+    second: character_rot_braun_4
+  - first:
+      213: -3365977613404678997
+    second: character_rot_braun_5
+  - first:
+      213: 8741688709223889385
+    second: character_rot_braun_6
+  - first:
+      213: -843634333774868345
+    second: character_rot_braun_7
+  - first:
+      213: -256643956964545987
+    second: character_rot_braun_8
+  - first:
+      213: 4855589040064353617
+    second: character_rot_braun_9
+  - first:
+      213: -2209413240913059217
+    second: character_rot_braun_10
+  - first:
+      213: -5759396689940188987
+    second: character_rot_braun_11
+  - first:
+      213: 3543400104122013795
+    second: character_rot_braun_12
+  - first:
+      213: -911099537320504897
+    second: character_rot_braun_13
+  - first:
+      213: -2861206371860824316
+    second: character_rot_braun_14
+  - first:
+      213: -1192196674454575361
+    second: character_rot_braun_15
+  - first:
+      213: 6105139978547966787
+    second: character_rot_braun_16
+  - first:
+      213: -9117864570388883282
+    second: character_rot_braun_17
+  - first:
+      213: 7061878883457541246
+    second: character_rot_braun_18
+  - first:
+      213: -4787456766447140039
+    second: character_rot_braun_19
+  - first:
+      213: -6401316777141334544
+    second: character_rot_braun_20
+  - first:
+      213: 519209791320682383
+    second: character_rot_braun_21
+  - first:
+      213: -825652029440685939
+    second: character_rot_braun_22
+  - first:
+      213: 5988290462419623767
+    second: character_rot_braun_23
+  - first:
+      213: 6014930969101904512
+    second: character_rot_braun_24
+  - first:
+      213: -6464237030561227165
+    second: character_rot_braun_25
+  - first:
+      213: 3685168524653100695
+    second: character_rot_braun_26
+  - first:
+      213: -4623921807791449805
+    second: character_rot_braun_27
+  - first:
+      213: -814693381684147372
+    second: character_rot_braun_28
+  - first:
+      213: 3967781042232045408
+    second: character_rot_braun_29
+  - first:
+      213: -3039356081720709094
+    second: character_rot_braun_30
+  - first:
+      213: 3275576950999574829
+    second: character_rot_braun_31
+  - first:
+      213: -4636917140297042757
+    second: character_rot_braun_32
+  - first:
+      213: -2588485604537240910
+    second: character_rot_braun_33
+  - first:
+      213: -6353346281855801369
+    second: character_rot_braun_34
+  - first:
+      213: 7491613337134665203
+    second: character_rot_braun_35
+  - first:
+      213: -2762082633379349670
+    second: character_rot_braun_36
+  - first:
+      213: -2617381967876390815
+    second: character_rot_braun_37
+  - first:
+      213: 1045845888002686506
+    second: character_rot_braun_38
+  - first:
+      213: -3030715726435645644
+    second: character_rot_braun_39
+  - first:
+      213: -422123157123572276
+    second: character_rot_braun_40
+  - first:
+      213: -4661918485696925714
+    second: character_rot_braun_41
+  - first:
+      213: -1527389550923027783
+    second: character_rot_braun_42
+  - first:
+      213: -8083924387101954931
+    second: character_rot_braun_43
+  - first:
+      213: -734188581008623015
+    second: character_rot_braun_44
+  - first:
+      213: -3000759045141893968
+    second: character_rot_braun_45
+  - first:
+      213: -4627843542950863533
+    second: character_rot_braun_46
+  - first:
+      213: 1728302305347308892
+    second: character_rot_braun_47
+  - first:
+      213: -6699320452080289941
+    second: character_rot_braun_48
+  - first:
+      213: 4751935989260553061
+    second: character_rot_braun_49
+  - first:
+      213: -4120739635077524191
+    second: character_rot_braun_50
+  - first:
+      213: 4255963959114352287
+    second: character_rot_braun_51
+  - first:
+      213: 3961425466856789304
+    second: character_rot_braun_52
+  - first:
+      213: -99702023600468437
+    second: character_rot_braun_53
+  - first:
+      213: -6467344361708540159
+    second: character_rot_braun_54
+  - first:
+      213: -608576818737838765
+    second: character_rot_braun_55
+  - first:
+      213: -5382478275447857467
+    second: character_rot_braun_56
+  - first:
+      213: -1126128830461053753
+    second: character_rot_braun_57
+  - first:
+      213: -3414052290157743410
+    second: character_rot_braun_58
+  - first:
+      213: -3811874371520437792
+    second: character_rot_braun_59
+  - first:
+      213: -6049076444561648638
+    second: character_rot_braun_60
+  - first:
+      213: -5662153461934629287
+    second: character_rot_braun_61
+  - first:
+      213: 794616843630006306
+    second: character_rot_braun_62
+  - first:
+      213: 5013493774154797283
+    second: character_rot_braun_63
+  - first:
+      213: -6842481450052381723
+    second: character_rot_braun_64
+  - first:
+      213: -8526575710983618725
+    second: character_rot_braun_65
+  - first:
+      213: -7496017315716590502
+    second: character_rot_braun_66
+  - first:
+      213: 8753078491923512536
+    second: character_rot_braun_67
+  - first:
+      213: -2000589138122643826
+    second: character_rot_braun_68
+  - first:
+      213: -8771412768112590738
+    second: character_rot_braun_69
+  - first:
+      213: 8463369178630047341
+    second: character_rot_braun_70
+  - first:
+      213: -6813394996327296570
+    second: character_rot_braun_71
+  - first:
+      213: 444924210476749127
+    second: character_rot_braun_72
+  - first:
+      213: 7747778755432434741
+    second: character_rot_braun_73
+  - first:
+      213: 5893186344919561627
+    second: character_rot_braun_74
+  - first:
+      213: 946112560574681001
+    second: character_rot_braun_75
+  - first:
+      213: 6222025047377813134
+    second: character_rot_braun_76
+  - first:
+      213: -2561912132730428721
+    second: character_rot_braun_77
+  - first:
+      213: 3767056562255499502
+    second: character_rot_braun_78
+  - first:
+      213: -3608752379892489870
+    second: character_rot_braun_79
+  - first:
+      213: 1388941869540542129
+    second: character_rot_braun_80
+  - first:
+      213: -1557828886310749382
+    second: character_rot_braun_81
+  - first:
+      213: -6908774027598843453
+    second: character_rot_braun_82
+  - first:
+      213: -3286717109134143272
+    second: character_rot_braun_83
+  - first:
+      213: -1601557707328914549
+    second: character_rot_braun_84
+  - first:
+      213: 1809839426017390433
+    second: character_rot_braun_85
+  - first:
+      213: 822799994853992029
+    second: character_rot_braun_86
+  - first:
+      213: -8346713614608713947
+    second: character_rot_braun_87
+  - first:
+      213: 7082972139818264129
+    second: character_rot_braun_88
+  - first:
+      213: -786528693770657316
+    second: character_rot_braun_89
+  - first:
+      213: 6549829318093710895
+    second: character_rot_braun_90
+  - first:
+      213: -309729124799397585
+    second: character_rot_braun_91
+  - first:
+      213: -3247320032821776409
+    second: character_rot_braun_92
+  - first:
+      213: 1555735107928142719
+    second: character_rot_braun_93
+  - first:
+      213: 8191080641277182636
+    second: character_rot_braun_94
+  - first:
+      213: 395319277570271760
+    second: character_rot_braun_95
+  - first:
+      213: 4974042466059522130
+    second: character_rot_braun_96
+  - first:
+      213: -3646912905613340124
+    second: character_rot_braun_97
+  - first:
+      213: 4163754699195299593
+    second: character_rot_braun_98
+  - first:
+      213: -6365611377764709757
+    second: character_rot_braun_99
+  - first:
+      213: -1918611928994315742
+    second: character_rot_braun_100
+  - first:
+      213: 4037513126283680483
+    second: character_rot_braun_101
+  - first:
+      213: 5005989007545411644
+    second: character_rot_braun_102
+  - first:
+      213: -475865023219498313
+    second: character_rot_braun_103
+  - first:
+      213: -3190156150105726806
+    second: character_rot_braun_104
+  - first:
+      213: -434867409473828120
+    second: character_rot_braun_105
+  - first:
+      213: 5966536333421126332
+    second: character_rot_braun_106
+  - first:
+      213: 4490779748307479012
+    second: character_rot_braun_107
+  - first:
+      213: -1019641658335402275
+    second: character_rot_braun_108
+  - first:
+      213: 6780037262246436650
+    second: character_rot_braun_109
+  - first:
+      213: -5591949045029236392
+    second: character_rot_braun_110
+  - first:
+      213: -3551903855576162500
+    second: character_rot_braun_111
+  - first:
+      213: 1526557587721693660
+    second: character_rot_braun_112
+  - first:
+      213: 2498073370332842415
+    second: character_rot_braun_113
+  - first:
+      213: -1133174499514030089
+    second: character_rot_braun_114
+  - first:
+      213: -5679166592070683878
+    second: character_rot_braun_115
+  - first:
+      213: -3913641109979681444
+    second: character_rot_braun_116
+  - first:
+      213: 8609177908936948246
+    second: character_rot_braun_117
+  - first:
+      213: 5477529719160329356
+    second: character_rot_braun_118
+  - first:
+      213: -8641501602281245337
+    second: character_rot_braun_119
+  - first:
+      213: -3418652229634130360
+    second: character_rot_braun_120
+  - first:
+      213: 1541441133454829692
+    second: character_rot_braun_121
+  - first:
+      213: 8001065496998245326
+    second: character_rot_braun_122
+  - first:
+      213: -2182789057450130758
+    second: character_rot_braun_123
+  - first:
+      213: 7692382575133641687
+    second: character_rot_braun_124
+  - first:
+      213: -6796580763623397942
+    second: character_rot_braun_125
+  - first:
+      213: 1454773418577046065
+    second: character_rot_braun_126
+  - first:
+      213: 42164018741769717
+    second: character_rot_braun_127
+  - first:
+      213: 1872453875000290114
+    second: character_rot_braun_128
+  - first:
+      213: -2818050609411028845
+    second: character_rot_braun_129
+  - first:
+      213: 2058411504221368864
+    second: character_rot_braun_130
+  - first:
+      213: 4237527872723944793
+    second: character_rot_braun_131
+  - first:
+      213: -6544282797854675219
+    second: character_rot_braun_132
+  - first:
+      213: 5324313029953094181
+    second: character_rot_braun_133
+  - first:
+      213: 6731130348808380282
+    second: character_rot_braun_134
+  - first:
+      213: -3206769971762773869
+    second: character_rot_braun_135
+  - first:
+      213: -7285550786356855022
+    second: character_rot_braun_136
+  - first:
+      213: 7846230028724531896
+    second: character_rot_braun_137
+  - first:
+      213: 6737857116887413122
+    second: character_rot_braun_138
+  - first:
+      213: -8981548129652802159
+    second: character_rot_braun_139
+  - first:
+      213: 7179760533278686683
+    second: character_rot_braun_140
+  - first:
+      213: 2124465599992515153
+    second: character_rot_braun_141
+  - first:
+      213: -2862344403173715209
+    second: character_rot_braun_142
+  - first:
+      213: 7777468164656269000
+    second: character_rot_braun_143
+  - first:
+      213: 7404291675662071224
+    second: character_rot_braun_144
+  - first:
+      213: -5007498132397583229
+    second: character_rot_braun_145
+  - first:
+      213: 3393702467221835461
+    second: character_rot_braun_146
+  - first:
+      213: -4042051594590907509
+    second: character_rot_braun_147
+  - first:
+      213: 6122380269429206030
+    second: character_rot_braun_148
+  - first:
+      213: 7033966612145422638
+    second: character_rot_braun_149
+  - first:
+      213: -7809856255645708296
+    second: character_rot_braun_150
+  - first:
+      213: 5566581949798506094
+    second: character_rot_braun_151
+  - first:
+      213: -4655295924085461895
+    second: character_rot_braun_152
+  - first:
+      213: 5134852714728289062
+    second: character_rot_braun_153
+  - first:
+      213: 3213206401652258098
+    second: character_rot_braun_154
+  - first:
+      213: 9008567043471369629
+    second: character_rot_braun_155
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_rot_braun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929f49510807516e0800000000000000
+      internalID: -1867462775054993111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae9a88a216d2bc50800000000000000
+      internalID: 6679636572969279139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903e8adaaea825370800000000000000
+      internalID: 8309857002992493321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231b66f4922c65b70800000000000000
+      internalID: 8887504397343830322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92a88188b6bb3300800000000000000
+      internalID: 232980709303165597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4d81fb135a941d0800000000000000
+      internalID: -3365977613404678997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9355ac097b05970800000000000000
+      internalID: 8741688709223889385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780960f0b0fca44f0800000000000000
+      internalID: -843634333774868345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aa06f4ea7307cf0800000000000000
+      internalID: -256643956964545987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155d0548184826340800000000000000
+      internalID: 4855589040064353617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6225550d569651e0800000000000000
+      internalID: -2209413240913059217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0fd8f99338210b0800000000000000
+      internalID: -5759396689940188987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3685647fe9fac2130800000000000000
+      internalID: 3543400104122013795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb11dfa4ccf1b53f0800000000000000
+      internalID: -911099537320504897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fb620d6f3fa48d0800000000000000
+      internalID: -2861206371860824316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6abbce077747fe0800000000000000
+      internalID: -1192196674454575361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343336dc670d9b450800000000000000
+      internalID: 6105139978547966787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8d9d35b76d67180800000000000000
+      internalID: -9117864570388883282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74a157dd65d00260800000000000000
+      internalID: 7061878883457541246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933c06a9f698f8db0800000000000000
+      internalID: -4787456766447140039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd0ebb8e44f927a0800000000000000
+      internalID: -6401316777141334544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fe297ed8a943700800000000000000
+      internalID: 519209791320682383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d888b1d8ad1ba84f0800000000000000
+      internalID: -825652029440685939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f9160c27eaa1350800000000000000
+      internalID: 5988290462419623767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aa0d119d3597350800000000000000
+      internalID: 6014930969101904512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ed8717baa6a46a0800000000000000
+      internalID: -6464237030561227165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ef5619f39542330800000000000000
+      internalID: 3685168524653100695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33998694d9784dfb0800000000000000
+      internalID: -4623921807791449805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bcadf8fa0a1b4f0800000000000000
+      internalID: -814693381684147372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f25c0f5d3601730800000000000000
+      internalID: 3967781042232045408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a103d133fb902d5d0800000000000000
+      internalID: -3039356081720709094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2969c6d1ef257d20800000000000000
+      internalID: 3275576950999574829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4bca7ad6c56afb0800000000000000
+      internalID: -4636917140297042757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2785b9e0ad31cd0800000000000000
+      internalID: -2588485604537240910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7afe6d73164d7a0800000000000000
+      internalID: -6353346281855801369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd8d7a43ae87f760800000000000000
+      internalID: 7491613337134665203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bf525aa7c1ba9d0800000000000000
+      internalID: -2762082633379349670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160073bb7f03dabd0800000000000000
+      internalID: -2617381967876390815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ef3344b47938e00800000000000000
+      internalID: 1045845888002686506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4370d9eaa1cb0f5d0800000000000000
+      internalID: -3030715726435645644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdde20a931542af0800000000000000
+      internalID: -422123157123572276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef253056d98d4fb0800000000000000
+      internalID: -4661918485696925714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bae69fbb4f9dcae0800000000000000
+      internalID: -1527389550923027783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8caba3b99120df80800000000000000
+      internalID: -8083924387101954931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a35de1063afc5f0800000000000000
+      internalID: -734188581008623015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bce6c11c892b56d0800000000000000
+      internalID: -3000759045141893968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d145a21d896cfb0800000000000000
+      internalID: -4627843542950863533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67be391b8b3703a0800000000000000
+      internalID: -6699320452080289941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125d45f622130d6c0800000000000000
+      internalID: -4120739635077524191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8355f2c397fc9f630800000000000000
+      internalID: 3961425466856789304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fac3881906f36a0800000000000000
+      internalID: -6467344361708540159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce5caca6889d45b0800000000000000
+      internalID: -5382478275447857467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2f980d789de90d0800000000000000
+      internalID: -3414052290157743410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20458b6e50d5d0ca0800000000000000
+      internalID: -6049076444561648638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220db192fcb070b00800000000000000
+      internalID: 794616843630006306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e39d6bcf5f9a01a0800000000000000
+      internalID: -6842481450052381723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54198a87fbc8f790800000000000000
+      internalID: -7496017315716590502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86e1b847ca7c34e0800000000000000
+      internalID: -2000589138122643826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66cb375d6de37570800000000000000
+      internalID: 8463369178630047341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741107d4630bc2600800000000000000
+      internalID: 444924210476749127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95fc1cd1cdc8c150800000000000000
+      internalID: 5893186344919561627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_rot_braun_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e998c90d2195650800000000000000
+      internalID: 6222025047377813134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

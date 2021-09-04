@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2acd5e510f6fce049a0b42541c133476, type: 3}
+  m_Name: FishingItems
+  m_EditorClassIdentifier: 
+  loots:
+  - drop: {fileID: 11400000, guid: 460e7f121b950d646a57d5f6d254bf8a, type: 2}
+    dropChance: 5
+  - drop: {fileID: 11400000, guid: 08418ca1f63326d46a18915141bc180e, type: 2}
+    dropChance: 10
+  - drop: {fileID: 11400000, guid: 623e190b1345f434fb039a3f415f12c0, type: 2}
+    dropChance: 1
+  - drop: {fileID: 11400000, guid: c6b8fe14d5f411441adab6800bd565f5, type: 2}
+    dropChance: 50
+  - drop: {fileID: 11400000, guid: 419b84430e7f39348945f4af22cc5b16, type: 2}
+    dropChance: 34

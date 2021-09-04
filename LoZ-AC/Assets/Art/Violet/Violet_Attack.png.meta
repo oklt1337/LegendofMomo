@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 39e5a0d6e3117754598b605be53fb037
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5913259638018963101
+    second: Violet_Attack_0
+  - first:
+      213: 619244749310583991
+    second: Violet_Attack_1
+  - first:
+      213: 8045975010079948419
+    second: Violet_Attack_2
+  - first:
+      213: -1599753284307787393
+    second: Violet_Attack_3
+  - first:
+      213: -6067075097693656984
+    second: Violet_Attack_4
+  - first:
+      213: 5185511576788900290
+    second: Violet_Attack_5
+  - first:
+      213: -1649276661244125170
+    second: Violet_Attack_6
+  - first:
+      213: -7366351390694438260
+    second: Violet_Attack_7
+  - first:
+      213: -8998338401241011960
+    second: Violet_Attack_8
+  - first:
+      213: 6699668859642140713
+    second: Violet_Attack_9
+  - first:
+      213: 342235223312567399
+    second: Violet_Attack_10
+  - first:
+      213: -1486445504406614566
+    second: Violet_Attack_11
+  - first:
+      213: -2389241439912434367
+    second: Violet_Attack_12
+  - first:
+      213: -7766195948289144417
+    second: Violet_Attack_13
+  - first:
+      213: 6272616548367518646
+    second: Violet_Attack_14
+  - first:
+      213: -208298789806179628
+    second: Violet_Attack_15
+  - first:
+      213: -8914523558308097733
+    second: Violet_Attack_16
+  - first:
+      213: 4801411650802068832
+    second: Violet_Attack_17
+  - first:
+      213: 6238247305375055161
+    second: Violet_Attack_18
+  - first:
+      213: 5666421008991435655
+    second: Violet_Attack_19
+  - first:
+      213: 6492222874024902840
+    second: Violet_Attack_20
+  - first:
+      213: -7866142029571300091
+    second: Violet_Attack_21
+  - first:
+      213: -894371380473134520
+    second: Violet_Attack_22
+  - first:
+      213: 4829818520577039037
+    second: Violet_Attack_23
+  - first:
+      213: -7459359240207068809
+    second: Violet_Attack_24
+  - first:
+      213: 4490799477311805519
+    second: Violet_Attack_25
+  - first:
+      213: -780740939973731278
+    second: Violet_Attack_26
+  - first:
+      213: 6159125938398698437
+    second: Violet_Attack_27
+  - first:
+      213: 7818841680581590585
+    second: Violet_Attack_28
+  - first:
+      213: -128689311523006311
+    second: Violet_Attack_29
+  - first:
+      213: 5350144273434756738
+    second: Violet_Attack_30
+  - first:
+      213: -4677463563172129253
+    second: Violet_Attack_31
+  - first:
+      213: 8002803544467290103
+    second: Violet_Attack_32
+  - first:
+      213: -3192647127785403839
+    second: Violet_Attack_33
+  - first:
+      213: 7834265465718522303
+    second: Violet_Attack_34
+  - first:
+      213: 6522528874964658153
+    second: Violet_Attack_35
+  - first:
+      213: 6394787465678379594
+    second: Violet_Attack_36
+  - first:
+      213: 8253892182192192735
+    second: Violet_Attack_37
+  - first:
+      213: -2275460173105739281
+    second: Violet_Attack_38
+  - first:
+      213: -1458213820849963415
+    second: Violet_Attack_39
+  - first:
+      213: 6102367978652851171
+    second: Violet_Attack_40
+  - first:
+      213: 7642835384616148070
+    second: Violet_Attack_41
+  - first:
+      213: -5410091293046823353
+    second: Violet_Attack_42
+  - first:
+      213: 1124735037419986856
+    second: Violet_Attack_43
+  - first:
+      213: -8617835194211126529
+    second: Violet_Attack_44
+  - first:
+      213: 8395079989904877931
+    second: Violet_Attack_45
+  - first:
+      213: 9108566477881396952
+    second: Violet_Attack_46
+  - first:
+      213: -3895409458300359798
+    second: Violet_Attack_47
+  - first:
+      213: -548037423891945626
+    second: Violet_Attack_48
+  - first:
+      213: 7764253146335060154
+    second: Violet_Attack_49
+  - first:
+      213: -2082222199780316185
+    second: Violet_Attack_50
+  - first:
+      213: -2200264334740427080
+    second: Violet_Attack_51
+  - first:
+      213: -5364247116509003999
+    second: Violet_Attack_52
+  - first:
+      213: 8152800905535678974
+    second: Violet_Attack_53
+  - first:
+      213: -2960672895833376255
+    second: Violet_Attack_54
+  - first:
+      213: 4191490528524470615
+    second: Violet_Attack_55
+  - first:
+      213: 7462111097405130276
+    second: Violet_Attack_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Violet_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9676cc9f4e101250800000000000000
+      internalID: 5913259638018963101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4eeaf81dff79800800000000000000
+      internalID: 619244749310583991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e3c7b64ab09af60800000000000000
+      internalID: 8045975010079948419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71e1902dd88cc9e0800000000000000
+      internalID: -1599753284307787393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868e958e75b6dcba0800000000000000
+      internalID: -6067075097693656984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c99d291e43a6f740800000000000000
+      internalID: 5185511576788900290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00a3366d979c19e0800000000000000
+      internalID: -1649276661244125170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a04f2507675c990800000000000000
+      internalID: -7366351390694438260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809e54936ea7f1380800000000000000
+      internalID: -8998338401241011960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92857bbd4510afc50800000000000000
+      internalID: 6699668859642140713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c0c235f1ddfb400800000000000000
+      internalID: 342235223312567399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add0ed370b51f5be0800000000000000
+      internalID: -1486445504406614566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1456063b195b7ded0800000000000000
+      internalID: -2389241439912434367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99c52e9eede83490800000000000000
+      internalID: -7766195948289144417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbcea9548fcc0750800000000000000
+      internalID: 6272616548367518646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violet_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da7572ba59fb1df0800000000000000
+      internalID: -208298789806179628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

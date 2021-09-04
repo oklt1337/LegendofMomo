@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: abf1f29095bbdb4408feb2eb56299050
+  - enabled: 1
+    path: Assets/Scenes/Overworld.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/HouseInterior.unity
+    guid: 8eaedfc59d8ea19479f3b39c9a40c532
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: def561facc6747947a1aeef48e0c3788
+  - enabled: 1
+    path: Assets/Scenes/LowerDungeon.unity
+    guid: e296ac97717539845aed82e3784014a6
+  - enabled: 1
+    path: Assets/Scenes/Palace.unity
+    guid: ffb54c91a8d7a95458b190e6c5047bd0
+  - enabled: 1
+    path: Assets/Scenes/BossDialog.unity
+    guid: ed2e04a22d10fca40b66d76383c62705
+  - enabled: 1
+    path: Assets/Scenes/MonsterDungeon.unity
+    guid: d363b2026c179d84cbac5c200baf42ea
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 45054d1fb654bb54a990e8f9665da8f7
+  - enabled: 1
+    path: Assets/Scenes/WonGame.unity
+    guid: f9faa6656f29922428cc881ff36eade4
+  m_configObjects: {}
